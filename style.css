@@ -1,0 +1,48 @@
+.header {
+    background-color: #146C94;
+    overflow: hidden;
+    padding: 20px;
+}
+
+.desc {
+   padding: 20px;
+   border-color: #AFD3E2;
+   border-style: dotted; 
+}
+
+.name {
+    margin: 0;
+    padding: 10px;
+}
+
+.gender {
+    margin: 0;
+    padding: 10px;
+}
+
+.email {
+    margin: 0;
+    padding: 10px;
+}
+
+.contact {
+    margin: 0;
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    text-align: left;
+}
+
+body {
+    background-color: #F6F1F1;
+}
+
+h3 {
+    text-align: left;
+    font-style: italic;
+}
